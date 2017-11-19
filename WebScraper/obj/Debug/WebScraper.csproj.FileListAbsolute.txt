@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.Properties.Resources.resources
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Matt\source\repos\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Matt\source\repos\WebScraper\WebScraper\obj\Debug\WebScraper.Form1.resources
